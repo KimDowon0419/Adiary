@@ -1,4 +1,4 @@
-# demo_project
+# Adiary
 
 A new Flutter project.
 
