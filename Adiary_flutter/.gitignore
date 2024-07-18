@@ -1,0 +1,80 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+# Optionally, `pubspec.lock` is included in version control when developing packages.
+# Uncomment the following line if this is a package and you want to track `pubspec.lock`.
+# pubspec.lock
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+**/android/key.properties
+**/android/app/key.jks
+**/android/key.jks
+
+# iOS related
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/app.flx
+ios/Flutter/app.framework
+ios/Flutter/app.dSYM
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+
+# Web related
+web/assets
+web/firebase-messaging-sw.js
+
+# Android related
+**/gradle-wrapper.jar
+**/gradle-wrapper.properties
+**/gradlew
+**/gradlew.bat
+**/local.properties
+**/gradle.properties
+.gradle/
+build/
+**/*.iml
+
+# VS Code related
+.vscode/
